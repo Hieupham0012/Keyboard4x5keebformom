@@ -1,1 +1,21 @@
-C
+# Các link kiện cần có cho 1 bàn phím 4x5 hoặc 4x10:
+
+PCB 4x5 Mạch in 2 lớp <link>
+
+Vi xử lý Atmega32U4 Promini <link> "Bàn phím độc lập nên có thể dùng AU hoặc MCU đều được"
+
+Diode 1N4148 loại có chân dài <link>
+
+Điện trở công suất 220ohm <link>
+
+Nút bấm reset kích chân vi xử lý để flash nạp code <link>
+
+Led RGB 4 chân pin loại sk6028 mini 5v <link>
+
+chân hot swap giả dành cho switch "không bắt buộc cần có nhưng thuận tiện thay thế nếu lỗi switch" <link>
+
+Plate Top and Bottom có kèm sẵn ốc <link>
+
+Switch sử dụng loại 3 chân pin còn 5 chân pin cắt 2 chân giả vẫn dùng được loại Cherry MX loại phổ biến và nhiều nhất trên thị trường <link>
+
+Keycap tham khảo thêm keycap trơn hoặc keycap theo chủ đề mà bạn thích. Nếu phân vân có thể chơi theo hệ tâm linh may mắn giá rẻ hàng đổ đống này của shop <link>
